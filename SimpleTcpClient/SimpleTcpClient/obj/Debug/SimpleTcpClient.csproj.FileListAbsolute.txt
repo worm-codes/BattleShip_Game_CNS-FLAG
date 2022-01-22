@@ -1,0 +1,10 @@
+C:\Users\kralo\Desktop\client\SimpleTcpClient\SimpleTcpClient\bin\Debug\SimpleTcpClient.exe.config
+C:\Users\kralo\Desktop\client\SimpleTcpClient\SimpleTcpClient\bin\Debug\SimpleTcpClient.exe
+C:\Users\kralo\Desktop\client\SimpleTcpClient\SimpleTcpClient\bin\Debug\SimpleTcpClient.pdb
+C:\Users\kralo\Desktop\client\SimpleTcpClient\SimpleTcpClient\obj\Debug\SimpleTcpClient.csprojAssemblyReference.cache
+C:\Users\kralo\Desktop\client\SimpleTcpClient\SimpleTcpClient\obj\Debug\SimpleTcpClient.Properties.Resources.resources
+C:\Users\kralo\Desktop\client\SimpleTcpClient\SimpleTcpClient\obj\Debug\SimpleTcpClient.csproj.GenerateResource.cache
+C:\Users\kralo\Desktop\client\SimpleTcpClient\SimpleTcpClient\obj\Debug\SimpleTcpClient.csproj.CoreCompileInputs.cache
+C:\Users\kralo\Desktop\client\SimpleTcpClient\SimpleTcpClient\obj\Debug\SimpleTcpClient.exe
+C:\Users\kralo\Desktop\client\SimpleTcpClient\SimpleTcpClient\obj\Debug\SimpleTcpClient.pdb
+C:\Users\kralo\Desktop\client\SimpleTcpClient\SimpleTcpClient\obj\Debug\network.Form1.resources
